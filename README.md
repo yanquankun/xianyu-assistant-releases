@@ -36,7 +36,7 @@
 
 ## 演示视频
 
-下面是 **v0.0.1 的 47 秒脱敏实录**：使用天猫商品链接，完成「解析商品 → AI 润色 → 填入闲鱼 → 核对结果」。录制使用已安装的插件和已配置的 AI 服务，等待时间已剪短。
+**下面是视频实录**：使用天猫商品链接，完成「解析商品 → AI 润色 → 填入闲鱼 → 核对结果」。录制使用已安装的插件和已配置的 AI 服务，等待时间已剪短。
 
 [![商品解析、AI 润色与填入闲鱼的脱敏演示](media/demo-preview.gif)](https://github.com/yanquankun/xianyu-assistant-releases/raw/refs/heads/main/media/demo-v0.0.1.mp4)
 
