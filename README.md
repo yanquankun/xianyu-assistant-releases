@@ -6,7 +6,7 @@
 
 [下载与版本记录](https://github.com/yanquankun/xianyu-assistant-releases/releases) · [反馈问题](https://github.com/yanquankun/xianyu-assistant-releases/issues)
 
-> 本仓库仅提供使用文档、演示截图和发布附件，不提供开发源码。首个版本计划为 `0.0.1`；只有 Releases 中实际出现的版本才可下载，若列表为空，请等待首次发布。
+> 本仓库仅提供使用文档、演示视频、截图和发布附件，不提供开发源码。安装包与版本说明请以 [Releases](https://github.com/yanquankun/xianyu-assistant-releases/releases) 为准。
 
 ## 使用前必读：合规与账号风险
 
@@ -33,6 +33,25 @@
 - **本地保存**：在当前浏览器保存草稿、AI 配置和运行记录。
 
 当前不支持新增视频或自动上传视频，不支持无人值守批量发布，也不代替用户核对商品真实性。
+
+## 演示视频
+
+下面是 **v0.0.1 的 47 秒脱敏实录**：使用天猫商品链接，完成「解析商品 → AI 润色 → 填入闲鱼 → 核对结果」。录制使用已安装的插件和已配置的 AI 服务，等待时间已剪短。
+
+<video src="https://github.com/yanquankun/xianyu-assistant-releases/raw/refs/heads/main/media/demo-v0.0.1.mp4" controls width="960"></video>
+
+[打开或下载 MP4（约 1 MB）](media/demo-v0.0.1.mp4) · [查看填入结果截图](media/demo-preview.png)
+
+<details>
+<summary>播放器不可用时，展开查看动图预览</summary>
+
+![商品解析、AI 润色与填入闲鱼的脱敏演示](media/demo-preview.gif)
+
+</details>
+
+实录中已将 **5 张图片、AI 描述和价格**填入闲鱼，未点击最终「发布」。成色、规格、价格、运费及素材授权仍需用户核对；视频中的价格只是来源页面的抓取结果，不代表所展示规格的成交价或销售承诺。AI 生成的描述也需要人工检查。
+
+公开画面已遮挡账号、头像、收货信息、浏览器私人区域和原有草稿；未展示 AI 配置或密钥，未录制麦克风与系统声音。
 
 ## 界面预览
 
