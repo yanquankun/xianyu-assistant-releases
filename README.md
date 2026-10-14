@@ -38,16 +38,9 @@
 
 下面是 **v0.0.1 的 47 秒脱敏实录**：使用天猫商品链接，完成「解析商品 → AI 润色 → 填入闲鱼 → 核对结果」。录制使用已安装的插件和已配置的 AI 服务，等待时间已剪短。
 
-<video src="https://github.com/yanquankun/xianyu-assistant-releases/raw/refs/heads/main/media/demo-v0.0.1.mp4" controls width="960"></video>
+[![商品解析、AI 润色与填入闲鱼的脱敏演示](media/demo-preview.gif)](https://github.com/yanquankun/xianyu-assistant-releases/raw/refs/heads/main/media/demo-v0.0.1.mp4)
 
-[打开或下载 MP4（约 1 MB）](media/demo-v0.0.1.mp4) · [查看填入结果截图](media/demo-preview.png)
-
-<details>
-<summary>播放器不可用时，展开查看动图预览</summary>
-
-![商品解析、AI 润色与填入闲鱼的脱敏演示](media/demo-preview.gif)
-
-</details>
+上方为完整流程的动图预览。点击预览图，或 [下载清晰版 MP4（47 秒，约 1 MB）](https://github.com/yanquankun/xianyu-assistant-releases/raw/refs/heads/main/media/demo-v0.0.1.mp4)，可查看原分辨率视频；也可 [查看填入结果截图](media/demo-preview.png)。
 
 实录中已将 **5 张图片、AI 描述和价格**填入闲鱼，未点击最终「发布」。成色、规格、价格、运费及素材授权仍需用户核对；视频中的价格只是来源页面的抓取结果，不代表所展示规格的成交价或销售承诺。AI 生成的描述也需要人工检查。
 
